@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\android-practice\GroupChat\app\libs\Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="C:\android-practice\GroupChat\app\build\intermediates\pre-dexed\debug\Parse-1.9.1-7f505ac4f6a4ff8c816171ed94d31ec1570694b1.jar" />
+    </item>
+    <item
+        jar="C:\android-practice\GroupChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\android-practice\GroupChat\app\build\intermediates\pre-dexed\debug\classes-d78f6d8e313f12b44ca5b434e91887ade2c54cb2.jar" />
+    </item>
+    <item
+        jar="C:\Users\asu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\android-practice\GroupChat\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-fb762166271f565ee4713ce7655ebcc2fbfed43f.jar" />
+    </item>
+    <item
+        jar="C:\android-practice\GroupChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\android-practice\GroupChat\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-ae48d6489049cc00e8a8e9e12f519c9b736f0e93.jar" />
+    </item>
+    <item
+        jar="C:\android-practice\GroupChat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\android-practice\GroupChat\app\build\intermediates\pre-dexed\debug\classes-2876e125a6e7e617898cd717e6a1d981a0fb4794.jar" />
+    </item>
+    <item
+        jar="C:\Users\asu\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\android-practice\GroupChat\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-ad7dc07ca17ab224df5d1a7af955502a9f467c1e.jar" />
+    </item>
+
+</items>
