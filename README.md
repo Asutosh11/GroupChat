@@ -8,7 +8,7 @@ This is a Group chat android app where new users can enter their username and ch
 2. Parse.com online database (android API) 
 <br>
 3. Android Service
-
+<br>
 
 <b>Screenshots</b>
 
