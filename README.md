@@ -1,3 +1,15 @@
+This is a Group chat android app where new users can enter their username and chat in the group chatroom.
+
+<br>
+<b>This app uses</b>
+<br>
+1. Android ListView with custom layout.
+<br>
+2. Parse.com online database (android API) 
+<br>
+3. Android Service
+
+
 <b>Screenshots</b>
 
 1. <br>
