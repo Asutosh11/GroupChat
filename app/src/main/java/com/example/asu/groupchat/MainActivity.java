@@ -55,10 +55,9 @@ public class MainActivity extends AppCompatActivity {
     private String[] DisplayDateTime;
     private Button LoadMessages;
 
-
    // Related to the Service 3. There are 3 comments related to the service
-    MyService buckysService;
-    boolean isBound = false;
+    private MyService buckysService;
+    private boolean isBound = false;
 
 
     @Override
