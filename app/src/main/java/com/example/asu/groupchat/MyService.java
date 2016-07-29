@@ -20,13 +20,10 @@ import java.util.Locale;
 public class MyService extends Service {
 
 
-   List<ParseObject> ob;
-   public String[] DateTimeArray =  new String[1000];
-   public String[] readUsername =  new String[1000];
-   public String[] messages = new String[1000];
-
-
-
+   private List<ParseObject> ob;
+   private String[] DateTimeArray =  new String[1000];
+   private String[] readUsername =  new String[1000];
+   private String[] messages = new String[1000];
 
     private final IBinder buckysBinder = new MyLocalBinder();
 
