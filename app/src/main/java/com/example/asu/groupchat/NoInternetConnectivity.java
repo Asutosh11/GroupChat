@@ -9,9 +9,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-/**
- * Created by asu on 29-05-2015.
- */
+
 public class NoInternetConnectivity extends Activity {
 
     @Override
