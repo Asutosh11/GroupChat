@@ -19,9 +19,6 @@ import com.parse.ParseObject;
 import java.util.List;
 
 
-/**
- * Created by asu on 21-05-2015.
- */
 public class SetUsername extends AppCompatActivity {
 
     TextView textView;
