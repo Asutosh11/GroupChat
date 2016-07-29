@@ -39,30 +39,21 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button button;
-    EditText edittext;
-    String theText;
-    ListView listView;
-
-    SimpleAdapter adapter;
-
-    String[] messages_in_view;
-
-    String[] savedUsername;
-
-    HashMap<String, String> hm;
-
-    List<HashMap<String, String>> aList;
-    String username;
-
-    int noOfRowsInParseDB;
-
-    DateAndTimeClass DateAndTimeObject;
-    String DateTime;
-
-    String[] DisplayDateTime;
-
-    Button LoadMessages;
+    private Button button;
+    private EditText edittext;
+    private String theText;
+    private ListView listView;
+    private SimpleAdapter adapter;
+    private String[] messages_in_view;
+    private String[] savedUsername;
+    private HashMap<String, String> hm;
+    private List<HashMap<String, String>> aList;
+    private String username;
+    private int noOfRowsInParseDB;
+    private DateAndTimeClass DateAndTimeObject;
+    private String DateTime;
+    private String[] DisplayDateTime;
+    private Button LoadMessages;
 
 
    // Related to the Service 3. There are 3 comments related to the service
